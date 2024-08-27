@@ -15,11 +15,13 @@
 
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
-    <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><i class="fa fa-bed w3-margin-right"></i>Logo</a>
-    <a href="#rooms" class="w3-bar-item w3-button w3-mobile">Rooms</a>
-    <a href="#about" class="w3-bar-item w3-button w3-mobile">About</a>
-    <a href="#contact" class="w3-bar-item w3-button w3-mobile">Contact</a>
-    <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Book Now</a>
+    <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><i class="fa fa-bed w3-margin-right"></i>GC</a>
+    <a href="#rooms" class="w3-bar-item w3-button w3-mobile">Acceuil</a>
+    <a href="#about" class="w3-bar-item w3-button w3-mobile">Le Concept</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-mobile">Tarif</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-mobile">Qui sommes nous ?</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Prendre Rendez-Vous</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">S'inscrire</a>
 </div>
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
@@ -32,11 +34,11 @@
             <form action="/action_page.php" target="_blank">
                 <div class="w3-row-padding" style="margin:0 -16px;">
                     <div class="w3-half w3-margin-bottom">
-                        <label><i class="fa fa-calendar-o"></i> Check In</label>
+                        <label><i class="fa fa-calendar-o"></i>S'enregistrer</label>
                         <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY" name="CheckIn" required>
                     </div>
                     <div class="w3-half">
-                        <label><i class="fa fa-calendar-o"></i> Check Out</label>
+                        <label><i class="fa fa-calendar-o"></i>Deconnecter</label>
                         <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY" name="CheckOut" required>
                     </div>
                 </div>
