@@ -64,7 +64,7 @@
     </div>
 </header>
 
-<button class="w3-button w3-dark-grey w3-right" type="submit" style="padding:126px;"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
+<button class="w3-button w3-dark-grey w3-right" type="submit" style="padding:26px; margin-bottom: 123px"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:1532px;">
