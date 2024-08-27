@@ -28,7 +28,7 @@
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
     <img class="w3-image" src="/img/Capture d’écran 2024-08-27 à 13.18.26.png" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
-    <div class="w3-display-left w3-padding w3-col l6 m8">
+    <div class="w3-display-right w3-padding w3-col l6 m8">
         <div class="w3-container w3-blue w3-right" >
             <h2><i class="fa fa-bed w3-margin-right"></i>Immobilier</h2>
         </div>
