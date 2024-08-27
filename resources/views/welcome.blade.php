@@ -13,6 +13,8 @@
 </head>
 <body class="w3-light-grey">
 
+<img class="w3-image" src="/img/Capture d’écran 2024-08-27 à 13.18.26.png" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
+
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
     <a href="#" class="w3-bar-item w3-button w3-blue w3-mobile">GC</a>
@@ -25,7 +27,7 @@
     <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Connecter</a>
     <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Deconnecter</a>
 
-    <img class="w3-image" src="/img/Capture d’écran 2024-08-27 à 13.18.26.png" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
+   
 </div>
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
