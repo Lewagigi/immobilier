@@ -58,13 +58,13 @@
                         <input class="w3-input w3-border" type="number" value="0" name="Kids" min="0" max="6">
                     </div>
                 </div>
-                <button class="w3-button w3-dark-grey" type="submit"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
+                <button class="w3-button w3-dark-grey " type="submit"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
             </form>
         </div>
     </div>
 </header>
 
-<button class="w3-button w3-dark-grey" type="submit" style="max-width:1532px;"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
+<button class="w3-button w3-dark-grey" type="submit" style="margin:0 -96px;"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:1532px;">
