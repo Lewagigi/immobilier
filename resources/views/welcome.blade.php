@@ -15,7 +15,7 @@
 
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
-    <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><i class="fa fa-bed w3-margin-right"></i>GC</a>
+    <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"></i>GC</a>
     <a href="#rooms" class="w3-bar-item w3-button w3-mobile">Acceuil</a>
     <a href="#about" class="w3-bar-item w3-button w3-mobile">Le Concept</a>
     <a href="#contact" class="w3-bar-item w3-button w3-mobile">Tarif</a>
