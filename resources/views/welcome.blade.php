@@ -27,7 +27,7 @@
     <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Connecter</a>
     <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Deconnecter</a>
 
-   
+
 </div>
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
@@ -63,6 +63,8 @@
         </div>
     </div>
 </header>
+
+<button class="w3-button w3-dark-grey" type="submit" style="max-width:1532px;"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
 
 <!-- Page content -->
 <div class="w3-content" style="max-width:1532px;">
