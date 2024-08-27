@@ -105,7 +105,7 @@
     </div>
 </header>
 
-<form class="example" action="/action_page.php" style="margin:auto;max-width:300px">
+<form class="example w3-left" action="/action_page.php" style="margin:auto;max-width:300px">
     <input type="text" placeholder="Search.." name="search2">
     <button type="submit"><i class="fa fa-search"></i></button>
 </form>
