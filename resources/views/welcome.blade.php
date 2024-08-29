@@ -76,7 +76,7 @@
     <div class="w3-display-right w3-padding w3-col l6 m8">
         <div class="w3-container w3-blue w3-left" >
 
-                <button class="w3-button w3-dark-grey " type="submit"><i class="fa fa-search w3-margin-right"></i> Search availability</button>
+
 
         </div>
     </div>
