@@ -90,11 +90,14 @@
 </form>
 
 
- <h3 class="gigi">Recherche </h3>
+
 <form class="example w3-right" action="/action_page.php" style="margin:auto;max-width:300px; ">
     <input type="text" placeholder="Search.." name="search2">
     <button type="submit"><i class="fa fa-search"></i></button>
 </form>
+
+<h3 class="gigi">Recherche </h3>
+
 <!-- Page content -->
 <div class="w3-content" style="max-width:1532px;">
 
