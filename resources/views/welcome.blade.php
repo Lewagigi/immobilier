@@ -90,7 +90,7 @@
 </form>
 
 
-<h3 class="gigi">Recherche </h3>
+
 
 <form class="example w3-right" action="/action_page.php" style="margin:auto;max-width:300px; ">
     <input type="text" placeholder="Search.." name="search2">
